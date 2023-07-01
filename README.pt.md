@@ -31,7 +31,7 @@ O projeto está hospedado no GitHub Pages e pode ser acessado através do seguin
 
 ## Funcionalidades
 
-O projeto inclui os seguintes recursos:
+O projeto inclui as seguintes funcionalidades:
 
 - Captura do email ou número de telefone do usuário ao clicar no botão de login.
 - Validação dos campos do formulário de registro antes de enviar os dados.
